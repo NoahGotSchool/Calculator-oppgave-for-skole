@@ -1,6 +1,7 @@
 cal = str(input("Skall vi komme i gang å regne :) ja/nei"))
 
 while cal == "ja":
+    
     x = float(input("Gi meg et tall"))
     o = str(input("Ka vil du gjør +,-,*,/,**,%"))
     y = float(input("Gi meg et til tall"))
